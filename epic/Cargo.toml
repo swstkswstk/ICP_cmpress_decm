@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "src/epic_backend"
+]
+resolver = "2"

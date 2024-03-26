@@ -1,0 +1,17 @@
+{
+  "canisters": {
+    "epic_backend": {
+      "candid": "src/epic_backend/epic_backend.did",
+      "package": "epic_backend",
+      "type": "rust"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
